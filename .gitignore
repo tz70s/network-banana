@@ -1,0 +1,7 @@
+# Haskell
+
+.stack-work/
+
+# Additional
+.DS_Store
+.vscode/

@@ -1,0 +1,7 @@
+resolver: lts-13.12
+
+packages:
+- .
+
+extra-deps:
+- reactive-banana-1.2.1.0
